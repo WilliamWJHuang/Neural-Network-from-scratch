@@ -1,1 +1,1 @@
-# Kaggle-HomeCredit
+# Neural Network Built From Scratch
